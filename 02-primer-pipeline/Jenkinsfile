@@ -1,4 +1,4 @@
-Salazarpipeline {
+pipeline {
     agent any
 
     stages {
